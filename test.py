@@ -90,5 +90,6 @@ def find_addresses(text):
         found_addresses.write(i[0] + '\n')
     found_addresses.close()
 
-
-find_companies(f)
+#find_male_names(f)
+#find_companies(f)
+#find_addresses(f)
